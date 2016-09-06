@@ -1,2 +1,6 @@
 # hello-world1
 the second test project
+they told me write down something about myself ...
+I think, a coder will be a goood start thing to talk about.
+...
+In this time, it's enough for me.
